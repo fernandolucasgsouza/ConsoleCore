@@ -1,0 +1,2 @@
+## Console Core
+dotnet core
